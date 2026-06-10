@@ -1,5 +1,5 @@
 # The Digital Gogol Project
-# About 
+## About 
 The Digital Gogol Project is a digital humanities project
 ## Project Goals
 # Getting Started
@@ -8,4 +8,4 @@ The Digital Gogol Project is a digital humanities project
 # Project Schema
 ## Examples
 # Authors
-# Acknowledgements
+## Acknowledgements
