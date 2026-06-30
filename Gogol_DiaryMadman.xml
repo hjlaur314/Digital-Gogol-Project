@@ -6,19 +6,22 @@
      <teiHeader>
           <fileDesc>
                <titleStmt>
-                    <title> TEI document of Gogol's Diary of a Madman </title>
-                    <author>Amara Romero</author>
-               </titleStmt>
-               <publicationStmt>
-                    <p> Впервые напечатано во второй части сборника "Арабески" (1835 г.), где
-                         повесть имеет перед текстом другое название "Клочки из записок
-                         сумасшедшего". Написана повесть осенью 1834 г.</p>
-               </publicationStmt>
-               <sourceDesc>
-                    <p> Версия 1.01 от 15 декабря 2013 г. (Версия 1.00 от 18 февраля 1998 г.) Сверка
-                         произведена по Собранию сочинений Н.В.Гоголя в семи томах, изд-во
-                         "Художественная литература“, Москва, 1967 г. </p>
-               </sourceDesc>
+            <title>Нос</title>
+            <author>Nikolai Vasilievich Gogol</author>
+         <respStmt>
+            <resp>Tagged by</resp>
+            <name>Amara Romero</name>
+         </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>The Digital Gogol Project</publisher>
+            <distributor>Haley Laurila</distributor>
+            <pubPlace>Michigan</pubPlace>
+            <date>2026</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Версия 1.00 от 18 февраля 1998 г. Сверка произведена по Собранию сочинений Н.В.Гоголя в семи томах, изд-во "Художественная литература", Москва, 1967 г. Публичная Электронная Библиотека Евгения Пескина -- http://public-library.ru/Gogol.Nikolai/nos.html. Впервые напечатано в книге "Арабески. Разные сочинения Н.Гоголя", ч.2-я, СПб, 1835. Написана в 1833-1834 гг.</p>
+         </sourceDesc>
           </fileDesc>
      </teiHeader>
      <text>
