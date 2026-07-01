@@ -6,6 +6,7 @@ The Digital Gogol Project is a digital humanities project involving the computat
 # Getting Started
 ## Platforms
 ## Helpful Resources
+Current [TEI Guidelines](https://tei-c.org/release/doc/tei-p5-doc/en/html/index.html) 
 # Project Schema
 ## Examples
 # Authors
