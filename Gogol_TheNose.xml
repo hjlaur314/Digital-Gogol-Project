@@ -26,7 +26,7 @@
    </teiHeader>
    <text>
    <body>
-   <head ="mainTitle">Нос</head>
+   <head type="mainTitle">Нос</head>
    <div type="section">
 <head>I</head>
 <p>Марта 25 числа случилось в <placeName ref="#spb">Петербурге</placeName> необыкновенно странное происшествие. <persName ref="#biy"><roleName>Цирюльник</roleName> <forename>Иван</forename> <addName type="patronymic"> Яковлевич</addName></persName>, живущий на <placeName ref="#vosp">Вознесенском проспекте</placeName> (фамилия его утрачена, и даже на вывеске его -- где изображен господин с запыленною щекою и надписью: "И кровь отворяют" -- не выставлено ничего более), <persName ref="#biy"><roleName>цирюльник</roleName> <forename>Иван</forename> <addName type="patronymic">Яковлевич</addName></persName> проснулся довольно рано и услышал запах горячего хлеба. Приподнявшись немного на кровати, он увидел, что супруга его, довольно почтенная дама, очень любившая пить кофей, вынимала из печи только что испеченные хлебы.</p>
